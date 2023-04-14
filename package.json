@@ -4,6 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
+  "homepage": "https://akdenied.github.io/todo",
   "dependencies": {
     "babel-jest": "^29.5.0",
     "jest": "^29.5.0",
